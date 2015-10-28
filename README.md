@@ -1,6 +1,6 @@
 # Carina Bugs
 
-Central repo for Carina related bugs including the control panel, website, documentation, and product.
+Central repo for Carina related bugs including the control panel and product at https://app.getcarina.com
 
 If you run into an issue, please try to resolve it using the following steps:
 
@@ -9,3 +9,5 @@ If you run into an issue, please try to resolve it using the following steps:
 1. [Joining us in IRC at #carina on Freenode](http://webchat.freenode.net/?channels=carina)
 1. [Searching for a similar existing issue](https://github.com/getcarina/carina-bugs/issues)
 1. [Filing an issue](https://github.com/getcarina/carina-bugs/issues/new)
+
+For bugs related to the website or documentation go to https://github.com/getcarina/getcarina.com/issues
